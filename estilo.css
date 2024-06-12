@@ -7,6 +7,8 @@
     --fundo-texto-1: #000;
     --fundo-texto-2: #A18585;
     --fundo-texto-3: #DEBEBE;
+    --textos: #fff;
+    --texto-margem: #000;
 }
 
 *{
@@ -24,4 +26,5 @@
 
 .body{
     background-color: var(--fundo-cor);
+    color: var(--textos);
 }
