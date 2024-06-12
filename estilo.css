@@ -15,6 +15,11 @@
     font-weight: 400;
 }
 
+.body{
+    background-color: var(--fundo-cor);
+    color: var(--textos);
+}
+
 .cabecalho{
     background-color: var(--margem);
     text-align: center;
@@ -24,7 +29,8 @@
     margin: 30px;
 }
 
-.body{
-    background-color: var(--fundo-cor);
-    color: var(--textos);
+.imagem-cabecalho{
+    width: 30%;
 }
+
+
