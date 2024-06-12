@@ -8,3 +8,18 @@
     --fundo-texto-2: #A18585;
     --fundo-texto-3: #DEBEBE;
 }
+
+*{
+    font-weight: 400;
+}
+
+.cabecalho{
+    background-color: var(--margem);
+    font-size: 40px;
+    display: flex;
+    margin: 30px;
+}
+
+.body{
+    background-color: var(--fundo-cor);
+}
