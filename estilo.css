@@ -17,6 +17,7 @@
     background-color: var(--margem);
     font-size: 40px;
     display: flex;
+    justify-content: center;
     margin: 30px;
 }
 
