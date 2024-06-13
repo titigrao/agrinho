@@ -23,7 +23,7 @@ body{
     background-color: var(--margem);
     font-size: 20px;
     display: flex;
-    padding: 10px;
+    padding: 0px 100px;
 }
 
 .imagem-cabecalho{
