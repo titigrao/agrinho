@@ -33,7 +33,6 @@ body{
 
 .textos-principais{
     display: flex;
-    text-align: center;
     margin: 0 auto;
 }
 
