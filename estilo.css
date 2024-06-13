@@ -15,7 +15,7 @@
     font-weight: 400;
 }
 
-.body{
+body{
     background-color: var(--fundo-cor);
     color: var(--textos);
 }
