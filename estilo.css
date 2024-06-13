@@ -20,12 +20,12 @@ body{
 }
 
 .cabecalho{
-    background-color: var(--cabecalho-color);
-    color: var(--texto-color);
+    background-color: var(--margem);
+    font-size: 20px;
     display: flex;
-    padding: 24px 100px;
-    font-size: 50px;
-
+    justify-content: space-between;
+    margin: 0;
+    
 }
 
 .imagem-cabecalho{
