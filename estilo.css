@@ -21,11 +21,9 @@ body{
 
 .cabecalho{
     background-color: var(--margem);
-    text-align: center;
-    font-size: 40px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
-    padding: 30px;
 }
 
 .imagem-cabecalho{
