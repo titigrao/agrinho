@@ -24,7 +24,8 @@ body{
     font-size: 20px;
     display: flex;
     justify-content: space-between;
-    padding: 24px 60px;
+    margin: 0;
+    
 }
 
 .imagem-cabecalho{
