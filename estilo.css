@@ -17,8 +17,6 @@
 body{
     background-color: var(--fundo-cor);
     color: var(--textos);
-    display: flex;
-    text-align: center;
 }
 
 .cabecalho{
@@ -27,11 +25,16 @@ body{
     font-size: 40px;
     display: flex;
     justify-content: center;
-    margin: 30px;
+    padding: 30px;
 }
 
 .imagem-cabecalho{
     width: 10%;
+}
+
+.textos-principais{
+    display: flex;
+    text-align: center;
 }
 
 
