@@ -8,6 +8,7 @@
     --fundo-texto-2: #A18585;
     --fundo-texto-3: #DEBEBE;
     --textos: #000;
+    --teste: #154566;
 }
 
 *{
@@ -43,6 +44,7 @@ body{
 
 #secao-1{
     background-color: var(--fundo-texto-2);
+    border-radius: 2px solid var(--teste);
 }
 
 #secao-2{
