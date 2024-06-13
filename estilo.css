@@ -17,6 +17,8 @@
 body{
     background-color: var(--fundo-cor);
     color: var(--textos);
+    display: flex;
+    text-align: center;
 }
 
 .cabecalho{
