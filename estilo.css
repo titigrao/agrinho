@@ -23,7 +23,7 @@ body{
     background-color: var(--margem);
     font-size: 20px;
     display: flex;
-    justify-content: center;
+    padding: 10px;
 }
 
 .imagem-cabecalho{
@@ -33,6 +33,7 @@ body{
 .textos-principais{
     display: flex;
     text-align: center;
+    margin: 0 auto;
 }
 
 
