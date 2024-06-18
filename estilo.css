@@ -37,6 +37,7 @@ body{
     background-color: var(--fundo-cor);
     fill: var(--fundo-cor);
     display: flex;
+    padding: 10px;
     margin: 0 auto;
 }
 
