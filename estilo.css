@@ -22,9 +22,8 @@ body{
 
 .cabecalho{
     background-color: var(--margem);
-    font-size: 20px;
+    font-size: 40px;
     display: flex;
-    justify-content: space-between;
     margin: 0;
     
 }
