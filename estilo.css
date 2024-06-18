@@ -16,7 +16,7 @@
 }
 
 body{
-    background-color: var(--fundo-cor);
+    background-color: var(--margem);
     color: var(--textos);
 }
 
@@ -34,6 +34,7 @@ body{
 }
 
 .textos-principais{
+    background-color: var(--fundo-cor);
     display: flex;
     margin: 0 auto;
 }
