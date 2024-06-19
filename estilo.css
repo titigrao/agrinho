@@ -33,6 +33,10 @@ body{
     width: 10%;
 }
 
+.hamburguer-menu{
+    width: 10%;
+}
+
 .textos-principais{
     fill: var(--fundo-cor);
     display: flex;
