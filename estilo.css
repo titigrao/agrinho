@@ -48,7 +48,7 @@ body{
     justify-content: space-between;
     grid-template-columns: 1fr 1fr;
     display: grid;
-    border-radius: 15px;
+    border-radius: 20px;
 }
 
 .tp-1{
