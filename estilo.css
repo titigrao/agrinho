@@ -48,7 +48,7 @@ body{
     justify-content: space-between;
     grid-template-columns: 1fr 1fr;
     display: grid;
-    align-items: center;
+    border-spacing: 10px;
 }
 
 .tp-1{
