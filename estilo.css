@@ -48,7 +48,6 @@ body{
     justify-content: space-between;
     grid-template-columns: 1fr 1fr;
     display: grid;
-    border-spacing: 10px;
 }
 
 .tp-1{
