@@ -45,7 +45,9 @@ body{
     padding: 10px;
     margin: 0 auto;
     font-size: 30px;
-    float: left;
+    justify-content: space-between;
+    align-items: center;
+    
 }
 
 .tp-1{
