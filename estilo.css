@@ -47,8 +47,7 @@ body{
     font-size: 30px;
     justify-content: space-between;
     grid-template-columns: 1fr 1fr;
-    display: grid;
-    margin-bottom: 20px;
+    display: grid;s
 }
 
 .tp-1{
