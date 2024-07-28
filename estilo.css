@@ -18,7 +18,6 @@
 body{
     background-color: var(--fundo-cor);
     color: var(--textos);
-    background-image: url(./imgs/Imagem-Fundo.png)
 }
 
 .cabecalho{
