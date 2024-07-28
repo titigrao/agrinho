@@ -27,6 +27,7 @@ body{
     margin: 0;
     justify-content: space-between;
     font-family: "Roboto Slab", serif;
+    text-align: center;
 }
 
 .imagem-cabecalho{
