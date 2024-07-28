@@ -46,9 +46,8 @@ body{
     font-size: 30px;
     justify-content: space-between;
     grid-template-columns: 1fr 1fr;
-    display: grid;
-    border-radius: 20px;
-    margin-bottom: 20px;
+
+
 }
 
 .tp-1{
