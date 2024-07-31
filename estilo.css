@@ -3,12 +3,12 @@
 :root{
     --margem: #826c63;
     --opções-detalhes-: #000;
-    --fundo-cor: #b9adad;
+    --fundo-cor: #431B04;
     --fundo-texto-1: #000;
     --fundo-texto-2: #A18585;
     --fundo-texto-3: #DEBEBE;
     --textos: #000;
-    --textos2: #fff
+    --textos2: #fff;
 }
 
 *{
@@ -17,7 +17,7 @@
 
 body{
     background-color: var(--fundo-cor);
-    color: var(--textos);
+    color: var(--textos2);
 }
 
 .cabecalho{
