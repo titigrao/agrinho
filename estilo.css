@@ -47,11 +47,11 @@ body{
 }
 
 .textos-linha-2{
-    display: flex;
+    display:flex;
     padding: 10px;
     margin: 15px;
     font-size: 30px;
-    justify-content: space-between;
+    justify-content: end;
     flex-wrap: wrap;
 }
 
@@ -59,19 +59,3 @@ body{
     background-color: var(--fundo-texto-1);
 }
     
-
-#secao-1{
-    background-color: var(--fundo-texto-1);
-}
-
-#secao-2{
-    background-color: var(--fundo-texto-2);
-}
-
-#secao-3{
-    background-color: var(--fundo-texto-1);
-}
-
-#secao-4{
-    background-color: var(--fundo-texto-2);
-}
