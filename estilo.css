@@ -3,7 +3,7 @@
 :root{
     --margem: #fff;
     --opções-detalhes-: #000;
-    --fundo-texto-1: #FED8B1;
+    --fundo-texto-1: #C5CFCF;
     --fundo-texto-2: #fff;
     --textos: #000;
     --fonte: 
@@ -54,18 +54,18 @@ body{
 }
 
 #secao-1{
-    background-color: var(--fundo-texto-2);
+    background-color: var(--fundo-texto-1);
 
 }
 
 #secao-2{
-    background-color: var(--fundo-texto-3);
-}
-
-#secao-3{
     background-color: var(--fundo-texto-2);
 }
 
+#secao-3{
+    background-color: var(--fundo-texto-1);
+}
+
 #secao-4{
-    background-color: var(--fundo-texto-3);
+    background-color: var(--fundo-texto-2);
 }
