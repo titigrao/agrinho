@@ -55,11 +55,37 @@ body{
     flex-wrap: wrap;
 }
 
+.textos-linha-3{
+    display: flex;
+    padding: 10px;
+    margin: 15px;
+    font-size: 30px;
+    justify-content: baseline;
+    flex-wrap: wrap;
+}
+
+.textos-linha-4{
+    display:flex;
+    padding: 10px;
+    margin: 15px;
+    font-size: 30px;
+    justify-content: end;
+    flex-wrap: wrap;
+}
+
 .tp-1{
     background-color: var(--fundo-texto-1);
 }
 
 .tp-2{
+    background-color: var(--fundo-texto-2);
+}
+
+.tp-3{
+    background-color: var(--fundo-texto-1);
+}
+
+.tp-4{
     background-color: var(--fundo-texto-2);
 }
     
