@@ -48,15 +48,15 @@ body{
 
 .textos-linha-2{
     display: flex;
-    padding-right: 10px;
-    margin-right: 15px;
+    padding: 10px;
+    margin: 15px;
     font-size: 30px;
     justify-content: space-between;
     flex-wrap: wrap;
 
 
 .tp-1{
-    
+    background-color: var(--fundo-texto-1);
 }
 
 #secao-1{
