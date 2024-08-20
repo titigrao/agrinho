@@ -58,4 +58,8 @@ body{
 .tp-1{
     background-color: var(--fundo-texto-1);
 }
+
+.tp-2{
+    background-color: var(--fundo-texto-2);
+}
     
