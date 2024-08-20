@@ -37,7 +37,7 @@ body{
     width: 5%;
 }
 
-.textos-principais{
+.textos-linha-1{
     fill: var(--fundo-cor);
     display: flex;
     padding: 10px;
@@ -55,7 +55,6 @@ body{
 
 #secao-1{
     background-color: var(--fundo-texto-1);
-
 }
 
 #secao-2{
