@@ -53,11 +53,12 @@ body{
     font-size: 30px;
     justify-content: space-between;
     flex-wrap: wrap;
-
+}
 
 .tp-1{
     background-color: var(--fundo-texto-1);
 }
+    
 
 #secao-1{
     background-color: var(--fundo-texto-1);
