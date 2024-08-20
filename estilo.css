@@ -38,7 +38,6 @@ body{
 }
 
 .textos-linha-1{
-    fill: var(--fundo-cor);
     display: flex;
     padding: 10px;
     margin: 15px;
@@ -50,7 +49,7 @@ body{
 }
 
 .tp-1{
-    margin: 0 auto;
+    
 }
 
 #secao-1{
