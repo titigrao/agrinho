@@ -34,6 +34,7 @@ body{
 }
 
 .img-hamburguer-menu{
+    display: flex;
     justify-content: end;
     width: 10%;
 }
