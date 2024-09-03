@@ -25,9 +25,10 @@ body{
     font-size: 28px;
     display: flex;
     margin: 0;
-    justify-content: center;
+    justify-content: space-between;
     font-family: "Squada One", sans-serif;
     align-items: center;
+    flex-direction: column;
 }
 
 .imagem-cabecalho{
