@@ -85,22 +85,26 @@ body{
 
 .tp-1{
     background-color: var(--fundo-texto-1);
-    border: 2px solid black;
+    border: 2px solid var(--fundo-texto-1);
+    border-radius: 15px;
 }
 
 .tp-2{
     background-color: var(--fundo-texto-2);
-    border: 2px solid black;
+    border: 2px solid var(--fundo-texto-2);
+    border-radius: 15px;
 }
 
 .tp-3{
     background-color: var(--fundo-texto-1);
-    border: 2px solid black;
+    border: 2px solid var(--fundo-texto-1);
+    border-radius: 15px;
 }
 
 .tp-4{
     background-color: var(--fundo-texto-2);
-    border: 2px solid black;
+    border: 2px solid var(--fundo-texto-2);
+    border-radius: 15px;
 }
     
 @media (min-width:1024px){
