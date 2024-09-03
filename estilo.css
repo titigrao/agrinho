@@ -48,6 +48,7 @@ body{
     justify-content: baseline;
     flex-wrap: wrap;
     font-family: "Squada One", sans-serif;
+    color: var(--fundo-texto-2);
 }
 
 .textos-linha-2{
@@ -68,6 +69,7 @@ body{
     justify-content: baseline;
     flex-wrap: wrap;
     font-family: "Squada One", sans-serif;
+    color: var(--fundo-texto-2);
 }
 
 .textos-linha-4{
