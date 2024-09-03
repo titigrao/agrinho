@@ -87,24 +87,28 @@ body{
     background-color: var(--fundo-texto-1);
     border: 2px solid var(--fundo-texto-1);
     border-radius: 15px;
+    padding: 10;
 }
 
 .tp-2{
     background-color: var(--fundo-texto-2);
     border: 2px solid var(--fundo-texto-2);
     border-radius: 15px;
+    padding: 10;
 }
 
 .tp-3{
     background-color: var(--fundo-texto-1);
     border: 2px solid var(--fundo-texto-1);
     border-radius: 15px;
+    padding: 10;
 }
 
 .tp-4{
     background-color: var(--fundo-texto-2);
     border: 2px solid var(--fundo-texto-2);
     border-radius: 15px;
+    padding: 10;
 }
     
 @media (min-width:1024px){
