@@ -35,6 +35,10 @@ body{
     width: 10%;
 }
 
+.comeback-menu{
+    justify-content: center;
+    display: flex;
+}
 .img-comeback-menu{
     display: flex;
     justify-content: center;
