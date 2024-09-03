@@ -25,7 +25,7 @@ body{
     font-size: 28px;
     display: flex;
     margin: 0;
-    justify-content: space-between;
+    justify-content: center;
     font-family: "Squada One", sans-serif;
     align-items: center;
 }
