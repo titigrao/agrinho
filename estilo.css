@@ -26,7 +26,7 @@ body{
     display: flex;
     margin: 0;
     justify-content: space-between;
-    font-family: "Kanit", sans-serif;
+    font-family: "Squada One", sans-serif;
     align-items: center;
 }
 
@@ -47,7 +47,7 @@ body{
     font-size: 30px;
     justify-content: baseline;
     flex-wrap: wrap;
-    font-family: "Squada One", sans-serif;
+    font-family: "Kanit", sans-serif;
     color: var(--fundo-texto-2);
 }
 
@@ -58,7 +58,7 @@ body{
     font-size: 30px;
     justify-content: end;
     flex-wrap: wrap;
-    font-family: "Squada One", sans-serif;
+    font-family: "Kanit", sans-serif;
 }
 
 .textos-linha-3{
@@ -68,7 +68,7 @@ body{
     font-size: 30px;
     justify-content: baseline;
     flex-wrap: wrap;
-    font-family: "Squada One", sans-serif;
+    font-family: "Kanit", sans-serif;
     color: var(--fundo-texto-2);
 }
 
@@ -79,7 +79,7 @@ body{
     font-size: 30px;
     justify-content: end;
     flex-wrap: wrap;
-    font-family: "Squada One", sans-serif;
+    font-family: "Kanit", sans-serif;
 }
 
 .tp-1{
