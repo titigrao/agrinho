@@ -21,7 +21,7 @@ body{
 
 .cabecalho{
     background-color: var(--margem);
-    font-size: 45px;
+    font-size: 18px;
     display: flex;
     margin: 0;
     justify-content: space-between;
@@ -91,3 +91,6 @@ body{
     background-color: var(--fundo-texto-2);
 }
     
+@media (min-width:1024px){
+    
+}
