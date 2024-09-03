@@ -28,7 +28,6 @@ body{
     justify-content: space-between;
     font-family: "Squada One", sans-serif;
     align-items: center;
-    flex-direction: column;
 }
 
 .imagem-cabecalho{
