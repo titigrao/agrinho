@@ -37,9 +37,8 @@ body{
 
 .img-comeback-menu{
     display: flex;
-    justify-content: end;
+    justify-content: center;
     width: 10%;
-    align-items: center;
 }
 
 .textos-linha-1{
