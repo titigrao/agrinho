@@ -35,15 +35,10 @@ body{
     width: 10%;
 }
 
-.img-hamburguer-menu{
+.img-comeback-menu{
     display: flex;
     justify-content: end;
     width: 10%;
-}
-
-.img-comeback-menu{
-
-    
 }
 
 .textos-linha-1{
