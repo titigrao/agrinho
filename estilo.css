@@ -39,6 +39,7 @@ body{
     display: flex;
     justify-content: end;
     width: 10%;
+    align-items: center;
 }
 
 .textos-linha-1{
