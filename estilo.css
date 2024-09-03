@@ -85,18 +85,22 @@ body{
 
 .tp-1{
     background-color: var(--fundo-texto-1);
+    border: 2px solid black;
 }
 
 .tp-2{
     background-color: var(--fundo-texto-2);
+    border: 2px solid black;
 }
 
 .tp-3{
     background-color: var(--fundo-texto-1);
+    border: 2px solid black;
 }
 
 .tp-4{
     background-color: var(--fundo-texto-2);
+    border: 2px solid black;
 }
     
 @media (min-width:1024px){
