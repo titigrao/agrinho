@@ -114,6 +114,13 @@ body{
     border-radius: 15px;
     padding: 10px;
 }
+
+.tp-5{
+    background-color: var(--fundo-texto-2);
+    border: 2px solid var(--fundo-texto-2);
+    border-radius: 15px;
+    padding: 10px;
+}
     
 @media (min-width:1024px){
     
