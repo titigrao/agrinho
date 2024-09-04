@@ -56,7 +56,7 @@ body{
     flex-wrap: wrap;
     font-family: "Kanit", sans-serif;
     color: var(--fundo-texto-3);
-    line-height: 25px;
+    line-height: 30px;
 }
 
 .textos-linha-2{
@@ -67,6 +67,7 @@ body{
     justify-content: end;
     flex-wrap: wrap;
     font-family: "Kanit", sans-serif;
+    line-height: 30px;
 }
 
 .textos-linha-3{
@@ -78,6 +79,7 @@ body{
     flex-wrap: wrap;
     font-family: "Kanit", sans-serif;
     color: var(--fundo-texto-3);
+    line-height: 30px;
 }
 
 .textos-linha-4{
@@ -88,6 +90,7 @@ body{
     justify-content: end;
     flex-wrap: wrap;
     font-family: "Kanit", sans-serif;
+    line-height: 30px;
 }
 
 .textos-linha-5{
@@ -99,6 +102,7 @@ body{
     flex-wrap: wrap;
     font-family: "Kanit", sans-serif;
     color: var(--fundo-texto-3);
+    line-height: 30px;
 }
 
 .tp-1{
