@@ -37,7 +37,7 @@ body{
 
 .comeback-menu{
     position: fixed;
-    top: 10
+    top: 10;
     left: 10;
     justify-content: center;
     display: flex;
