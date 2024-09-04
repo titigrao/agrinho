@@ -37,8 +37,9 @@ body{
 
 .comeback-menu{
     position: fixed;
-    bottom: 0;
+    bottom: 20px;
     left: 20px;
+    width: 20px;
 }
 .img-comeback-menu{
     display: flex;
