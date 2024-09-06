@@ -198,6 +198,7 @@ body{
     justify-content: baseline;
     flex-wrap: wrap;
     font-family: "Kanit", sans-serif;
+    background-color: var(--fundo-texto-2);
     line-height: 30px;
 }
 
