@@ -121,6 +121,18 @@ body{
     line-height: 30px;
 }
 
+.textos-linha-7{
+    display: flex;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    justify-content: baseline;
+    flex-wrap: wrap;
+    font-family: "Kanit", sans-serif;
+    color: var(--fundo-texto-3);
+    line-height: 30px;
+}
+
 .tp-1{
     background-color: var(--fundo-texto-1);
     border: 2px solid var(--fundo-texto-1);
@@ -159,6 +171,13 @@ body{
 .tp-6{
     background-color: var(--fundo-texto-2);
     border: 2px solid var(--fundo-texto-2);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.tp-7{
+    background-color: var(--fundo-texto-1);
+    border: 2px solid var(--fundo-texto-1);
     border-radius: 15px;
     padding: 10px;
 }
