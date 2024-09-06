@@ -133,6 +133,17 @@ body{
     line-height: 30px;
 }
 
+.textos-linha-8{
+    display:flex;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    justify-content: end;
+    flex-wrap: wrap;
+    font-family: "Kanit", sans-serif;
+    line-height: 30px;
+}
+
 .tp-1{
     background-color: var(--fundo-texto-1);
     border: 2px solid var(--fundo-texto-1);
@@ -178,6 +189,13 @@ body{
 .tp-7{
     background-color: var(--fundo-texto-1);
     border: 2px solid var(--fundo-texto-1);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.tp-8{
+    background-color: var(--fundo-texto-2);
+    border: 2px solid var(--fundo-texto-2);
     border-radius: 15px;
     padding: 10px;
 }
