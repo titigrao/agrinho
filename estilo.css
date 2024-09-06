@@ -157,8 +157,8 @@ body{
 }
 
 .tp-6{
-    background-color: var(--fundo-texto-1);
-    border: 2px solid var(--fundo-texto-1);
+    background-color: var(--fundo-texto-2);
+    border: 2px solid var(--fundo-texto-2);
     border-radius: 15px;
     padding: 10px;
 }
