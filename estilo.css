@@ -287,8 +287,8 @@ body{
 }
 
 .tp-conclusão{
-    background-color: var(--fundo-texto-1);
-    border: 2px solid var(--fundo-texto-1);
+    background-color: var(--fundo-texto-2);
+    border: 2px solid var(--fundo-texto-2);
     padding: 10px;
 }
     
