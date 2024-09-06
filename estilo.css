@@ -167,6 +167,29 @@ body{
     line-height: 30px;
 }
 
+.textos-linha-11{
+    display: flex;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    justify-content: baseline;
+    flex-wrap: wrap;
+    font-family: "Kanit", sans-serif;
+    color: var(--fundo-texto-3);
+    line-height: 30px;
+}
+
+.textos-linha-12{
+    display:flex;
+    padding: 10px;
+    margin: 15px;
+    font-size: 20px;
+    justify-content: end;
+    flex-wrap: wrap;
+    font-family: "Kanit", sans-serif;
+    line-height: 30px;
+}
+
 .tp-1{
     background-color: var(--fundo-texto-1);
     border: 2px solid var(--fundo-texto-1);
