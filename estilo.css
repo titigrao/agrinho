@@ -47,6 +47,11 @@ body{
     width: 10%;
 }
 
+.negrito{
+    font-weight: bold;
+
+}
+
 .textos-linha-1{
     display: flex;
     padding: 10px;
